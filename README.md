@@ -42,7 +42,7 @@ With everything up and running, you can make this test request:
 
 [GET] http://localhost:3000/movie?movieName=Oppenheimer
 
-![image](https://github.com/redacreltd/jonatas-da-silva/assets/28464939/8c230c45-0e9b-47fc-b372-5c7149fd2453)
+![image](https://github.com/dev-John/imdb-insights/assets/28464939/f1d6ab7d-0f5d-4373-a7c2-2d3bf39d93ec)
 
 You will receive the result of the processing and on the database you can consult the api usage registers:
 
@@ -59,7 +59,7 @@ table: registry
 
 SELECT \* FROM registry;
 
-![image](https://github.com/redacreltd/jonatas-da-silva/assets/28464939/ae6f7b7e-de22-4ef1-8fb2-8d68c46e23f9)
+![image](https://github.com/dev-John/imdb-insights/assets/28464939/518ad65a-59ff-4395-947c-f74d74207fb2)
 
 
 ## Stack used
@@ -76,5 +76,6 @@ SELECT \* FROM registry;
 
 ## The Architecture
 
-  ![image](https://github.com/redacreltd/jonatas-da-silva/assets/28464939/8c1ec681-a1a1-4461-a514-906eadffbc22)
+  ![image](https://github.com/dev-John/imdb-insights/assets/28464939/ceb3c7af-a0ad-4e1d-b718-3597898bacce)
+
 
